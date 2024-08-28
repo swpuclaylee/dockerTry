@@ -1,0 +1,1 @@
+在ubuntu中用docker部署fastapi尝试
